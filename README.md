@@ -1,430 +1,269 @@
-<!-- ========================================================= -->
+# 👋 Hi, I'm Ernest Programmer
 
-<!--                    PROFILE HEADER                         -->
+### `Software Engineering Student` · `Backend & Web Development`
 
-<!-- ========================================================= -->
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   $ whoami                                                   ║
+║   Ernest Programmer                                          ║
+║                                                              ║
+║   $ role                                                     ║
+║   Software Engineering Student                              ║
+║                                                              ║
+║   $ focus                                                    ║
+║   Backend • Web • Databases • Software Architecture          ║
+║                                                              ║
+║   $ status                                                   ║
+║   Building • Learning • Improving                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=2EA043&center=true&vCenter=true&width=850&lines=ERNEST+PROGRAMMER;Software+Engineering+Student;Backend+%26+Web+Developer;Building+Real-World+Software+Solutions;Learning+Software+Architecture"
-    alt="Typing animation"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ProgErnest">
-    <img src="https://komarev.com/ghpvc/?username=ProgErnest&label=Profile%20Views&color=2ea043&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/ProgErnest?tab=followers">
-    <img src="https://img.shields.io/github/followers/ProgErnest?label=Followers&style=flat-square&color=0d1117&labelColor=2ea043" alt="GitHub followers" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#about-me">About</a>
-  •
-  <a href="#tech-stack">Tech Stack</a>
-  •
-  <a href="#featured-projects">Projects</a>
-  •
-  <a href="#current-focus">Focus</a>
-  •
-  <a href="#github-activity">Activity</a>
-  •
-  <a href="#connect">Connect</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+%26+Web+Developer;Building+real-world+applications;Learning+software+architecture;Always+improving+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 ---
 
-## `> whoami`
+## 🧑‍💻 About Me
+
+I'm a **Software Engineering student** passionate about designing and developing useful software solutions.
+
+My main interests are **backend development, web applications, databases, API design and software architecture**.
+
+I enjoy turning real-world problems into structured technical solutions — from requirements analysis and UML modeling to database design, backend implementation, testing and deployment.
+
+I'm particularly interested in building applications that solve practical problems in **Cameroon and other emerging digital environments**.
 
 ```text
-Name       : Ernest Programmer
-Role       : Software Engineering Student
-Focus      : Backend Development • Web Applications • Databases
-Interests  : Software Architecture • APIs • System Design
-Environment: Linux • Git • Open Source
-Location   : Cameroon
-Status     : Learning • Building • Improving
+🎓  Software Engineering Student
+💻  Backend & Web Development
+🏗️  Software Design & Architecture
+🗄️  Databases & API Development
+🐧  Linux & Development Tools
+🌍  Cameroon
+🚀  Constantly learning and building
 ```
 
 ---
 
-## About Me
-
-I'm a **Software Engineering student** focused on backend and web development.
-
-I enjoy transforming real-world problems into structured software solutions — from **requirements analysis and system modeling** to **database design, backend development, testing and deployment**.
-
-My current interests are centered around:
-
-* Backend engineering
-* Web application development
-* REST API design
-* Relational database design
-* Software architecture
-* System modeling
-* Secure application development
-* DevOps and deployment
-* AI-assisted software development
-
-I believe good software is not only about writing code — it is about **understanding the problem, designing the right solution and building something maintainable**.
-
----
-
-## Tech Stack
+## ⚡ Tech Stack
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,symfony,nodejs" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,symfony,nodejs" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### Programming Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,javascript,c,cpp" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,javascript,c,cpp" />
 </p>
 
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## Engineering Focus
+## 🚀 Featured Projects
 
-```text
-                    SOFTWARE ENGINEERING
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-        Backend         Databases      Architecture
-             │              │              │
-        REST APIs       PostgreSQL      System Design
-        Business Logic  MySQL           UML / Modeling
-        Authentication  SQLite          Clean Code
-             │              │              │
-             └──────────────┼──────────────┘
-                            │
-                     Real-World Systems
-```
+### 🔨 Auction Bids Platform
 
-My objective is to progressively move from **framework-oriented development** toward a deeper understanding of **software engineering and system architecture**.
+**A web-based auction platform designed to manage online bidding and auction-related operations.**
 
----
+**Main technologies:**
 
-# Featured Projects
+`Symfony` · `PHP` · `JWT` · `REST API` · `Twig` · `Database`
 
-## Auction Bids Platform
+**What it demonstrates:**
 
-> A web application for managing online auctions and bidding operations.
-
-**Stack**
-
-`Symfony` · `PHP` · `REST API` · `JWT` · `Twig` · `Database`
-
-**Key areas**
-
-* User authentication
-* Authorization
-* Auction management
-* Bidding business logic
+* Backend architecture
+* Authentication and authorization
 * REST API development
 * Database modeling
-* Backend architecture
-* Web interface
+* Business logic
+* Web application development
 
-<p>
-  <a href="https://github.com/ProgErnest/auction_bids_platform">
-    <img src="https://img.shields.io/badge/View%20Repository-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="View Auction Bids repository" />
-  </a>
-</p>
+👉 **Repository:** `auction-bids`
 
 ---
 
-## Library Management System
+### 📚 Library Management System
 
-> A Django application for managing books, authors, genres, borrowers and loans.
+**A Django-based library management application designed to manage books, authors, genres, loans and borrowers.**
 
-**Stack**
+**Main technologies:**
 
-`Python` · `Django` · `SQLite` · `PostgreSQL` · `HTML` · `CSS`
+`Python` · `Django` · `SQLite/PostgreSQL` · `HTML` · `CSS`
 
-**Key areas**
+**What it demonstrates:**
 
-* Book management
-* Author and genre management
-* Borrower management
-* Loan management
-* Relational modeling
 * Django ORM
+* Relational database modeling
 * Query optimization
 * CRUD operations
-* Template-based interfaces
+* Relationships between entities
+* Django views and templates
+* Backend application design
 
-<p>
-  <a href="https://github.com/ProgErnest/library-project-django">
-    <img src="https://img.shields.io/badge/View%20Repository-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="View Library repository" />
-  </a>
-</p>
+👉 **Repository:** `library-project-django`
 
 ---
 
-## Hospital Management Platform
+### 🏥 Hospital Management Platform — Coming Soon
 
-> A software engineering project focused on the digitalization of hospital management processes.
+A larger software engineering project focused on the digitalization of hospital management processes.
 
-**Planned scope**
+The platform is designed around:
 
-```text
-Patient Records
-       │
-       ├── Admissions
-       │
-       ├── Appointments
-       │
-       ├── User & Role Management
-       │
-       ├── Medical Information
-       │
-       └── Reporting
-```
-
-**Planned technologies**
-
-`Django` · `Python` · `PostgreSQL` · `HTML` · `Tailwind CSS`
-
-The project is being approached through:
-
-**Requirements → Analysis → UML → Architecture → Database → Development → Testing → Deployment**
-
-`Status: Planning / Development`
-
----
-
-# Current Focus
-
-I'm currently strengthening my skills in:
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend
-
-* Advanced Django
-* REST API development
-* Authentication & authorization
-* ORM optimization
-* Business logic
-* PostgreSQL
-
-</td>
-<td width="50%">
-
-### Engineering
-
+* Patient records
+* Patient admissions
+* Appointment management
+* User and role management
+* Database management
 * Software architecture
-* System design
-* UML
-* Clean code
-* Testing
-* Design patterns
+* Requirements analysis and UML modeling
 
-</td>
-</tr>
+**Planned stack:**
 
-<tr>
-<td width="50%">
+`Django` · `Python` · `PostgreSQL` · `HTML/CSS` · `Tailwind CSS`
 
-### DevOps
-
-* Git & GitHub
-* Docker
-* CI/CD
-* Linux
-* Deployment
-* Cloud fundamentals
-
-</td>
-<td width="50%">
-
-### Emerging Technologies
-
-* React
-* AI-assisted development
-* Open-source AI models
-* Local AI deployment
-* Modern development workflows
-
-</td>
-</tr>
-</table>
+> 🚧 This project is currently under analysis and development.
 
 ---
 
-# Development Philosophy
+## 🧠 What I'm Currently Learning
 
 ```text
-        UNDERSTAND
-             │
-             ▼
-         ANALYZE
-             │
-             ▼
-          MODEL
-             │
-             ▼
-          DESIGN
-             │
-             ▼
-          BUILD
-             │
-             ▼
-           TEST
-             │
-             ▼
-          DEPLOY
-             │
-             ▼
-         IMPROVE
-             │
-             └──────────────► REPEAT
+┌───────────────────────────────────────────────┐
+│                                               │
+│  🔹 Advanced Django                           │
+│  🔹 REST API architecture                     │
+│  🔹 PostgreSQL                                │
+│  🔹 Software architecture                     │
+│  🔹 Docker & containerization                 │
+│  🔹 CI/CD                                     │
+│  🔹 React                                      │
+│  🔹 Cloud & deployment                        │
+│  🔹 AI-assisted software development          │
+│                                               │
+└───────────────────────────────────────────────┘
 ```
-
-```text
-Learn → Build → Debug → Understand → Refactor → Improve
-```
-
-I value **understanding over memorization** and **engineering practices over simply making an application work**.
 
 ---
 
-# GitHub Activity
+## 🏗️ My Development Approach
+
+I don't want to focus only on writing code.
+
+I am progressively learning to approach software development as a complete engineering process:
+
+```text
+Problem
+   ↓
+Requirements Analysis
+   ↓
+System Modeling
+   ↓
+Architecture
+   ↓
+Database Design
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Security
+   ↓
+Deployment
+   ↓
+Monitoring & Improvement
+```
+
+My goal is to become increasingly capable of designing **maintainable, scalable and secure software systems**.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ProgErnest&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="170"
-    alt="Ernest's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgErnest&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-    alt="Ernest's most used languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgErnest&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgErnest&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ProgErnest&theme=transparent&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=ProgErnest&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ProgErnest&bg_color=0d1117&color=2ea043&line=2ea043&point=58a6ff&area=true&hide_border=true"
-    alt="GitHub activity graph"
-  />
+  <img src="https://raw.githubusercontent.com/ProgErnest/ProgErnest/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" />
 </p>
 
 ---
 
-# Beyond Code
+## 🎯 Long-Term Goal
 
-I'm interested in more than just frameworks.
+> **Become a software engineer capable of designing and building robust software systems from problem analysis to production.**
 
-My long-term objective is to become a **software engineer capable of designing complete software systems**, with a strong understanding of:
-
-```text
-Software Engineering
-        │
-        ├── Backend Engineering
-        ├── Database Engineering
-        ├── Software Architecture
-        ├── System Design
-        ├── Security
-        ├── DevOps
-        ├── Cloud
-        └── Artificial Intelligence
-```
-
-I want to build systems that are **useful, maintainable, secure and adapted to real-world constraints**.
-
----
-
-# Roadmap
+I'm particularly interested in growing toward:
 
 ```text
-                         NOW
-                          │
-                          ▼
-                  Backend Engineering
-                          │
-                          ▼
-                   API Architecture
-                          │
-                          ▼
-                  Software Architecture
-                          │
-                          ▼
-                     System Design
-                          │
-                          ▼
-                     DevOps / Cloud
-                          │
-                          ▼
-                  Distributed Systems
-                          │
-                          ▼
-                 Software Architect
+Backend Engineering
+        +
+Software Architecture
+        +
+System Design
+        +
+Database Engineering
+        +
+Cloud & DevOps
+        +
+AI-assisted Development
 ```
 
 ---
 
-# Connect
+## 📈 My Philosophy
+
+```text
+Learn → Build → Break → Debug → Understand → Improve → Repeat
+```
+
+I believe that real progress comes from **building projects, understanding why things work, learning from failures and continuously improving engineering practices.**
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-here">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<a href="LINKEDIN_URL_TO_REPLACE">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:cuba7843@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/ProgErnest">
-  <img
-    src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -432,18 +271,9 @@ I want to build systems that are **useful, maintainable, secure and adapted to r
 ---
 
 <p align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d4d2a,100:2ea043&height=120&section=footer"
-alt="Footer"
-/>
-
+  <i>"Build things that solve real problems."</i>
 </p>
 
 <p align="center">
-  <strong>Building today. Engineering for tomorrow.</strong>
-</p>
-
-<p align="center">
-  <sub>© Ernest Programmer</sub>
+  ⭐ Thanks for visiting my profile!
 </p>
