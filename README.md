@@ -1,135 +1,210 @@
 <!-- ========================================================= -->
 
-<!--                     HERO SECTION                          -->
+<!-- ERNEST PROGRAMMER — GITHUB PROFILE README V4             -->
+
+<!-- Developer / Cyber / Software Engineering                  -->
 
 <!-- ========================================================= -->
 
+<!-- ========================= HERO ========================== -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b3d35,75:087f5b,100:00a884&height=210&section=header&text=Ernest%20Dev&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,35:071b2e,70:063b35,100:00a884&height=230&section=header&text=ERNEST%20PROGRAMMER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
-    alt="Ernest Dev"
+    alt="Ernest Programmer"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEERING+STUDENT;BACKEND+%26+WEB+DEVELOPER;BUILDING+REAL-WORLD+SOFTWARE;DATABASES+%7C+APIs+%7C+ARCHITECTURE;LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE"
-    alt="Professional typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEERING+STUDENT;BACKEND+%26+WEB+DEVELOPER;PYTHON+%7C+DJANGO+%7C+PHP+%7C+SYMFONY;DATABASES+%7C+REST+APIs+%7C+SOFTWARE+ARCHITECTURE;BUILDING+REAL-WORLD+SOFTWARE+SOLUTIONS"
+    alt="Typing animation"
   />
 </p>
+
+<p align="center">
+  <strong>Backend Engineering · Web Development · Databases · Software Architecture</strong>
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/ProgErnest">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Ernest-Dev-9b8938427">
+  <a href="https://www.linkedin.com/in/your-linkedin-here">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cuba7843@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00A884?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProgErnest&label=PROFILE%20VIEWS&color=2ea043&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ProgErnest?label=FOLLOWERS&style=flat-square&color=58a6ff&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/ProgErnest?label=STARS&style=flat-square&color=2ea043&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=ProgErnest&label=PROFILE%20VIEWS&color=00A884&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ProgErnest?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/ProgErnest?label=STARS&style=flat-square&color=00A884&labelColor=0D1117" />
 </p>
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                     QUICK NAVIGATION                      -->
-
-<!-- ========================================================= -->
+<!-- ====================== NAVIGATION ======================= -->
 
 <p align="center">
 
-[ ABOUT ](#about)  • 
-[ STACK ](#technology-stack)  • 
-[ PROJECTS ](#featured-projects)  • 
-[ ENGINEERING ](#engineering-mindset)  • 
-[ FOCUS ](#current-focus)  • 
-[ ACTIVITY ](#github-activity)  • 
-[ CONTACT ](#connect)
+**ABOUT**  · 
+**STACK**  · 
+**PROJECTS**  · 
+**ENGINEERING**  · 
+**ACTIVITY**  · 
+**ROADMAP**  · 
+**CONTACT**
 
 </p>
 
 ---
 
-# `01` — ABOUT
+# `01` — PROFILE
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-## Building software with an engineering mindset
+<td width="62%" valign="top">
 
-I'm **Ernest Dev**, a Software Engineering student focused on **backend and web development**.
+## Software Engineering Student
 
-I enjoy turning real-world problems into structured software solutions — starting from requirements and modeling, then moving through architecture, implementation, testing and deployment.
+I'm **Ernest Programmer**, a Software Engineering student focused on **backend and web development**.
 
-My current direction is toward **backend engineering and software architecture**, with a strong interest in databases, APIs, system design, DevOps and AI-assisted development.
+I enjoy designing and building applications that solve concrete problems, with particular interest in:
+
+* Backend engineering
+* REST API development
+* Relational databases
+* Software architecture
+* System modeling
+* Query optimization
+* Application security
+* DevOps and deployment
+* AI-assisted software development
+
+My goal is to progressively move from **building applications** to understanding and designing the **systems behind those applications**.
 
 </td>
 
-<td width="40%" valign="top">
+<td width="38%" valign="top">
+
+### `SYSTEM STATUS`
 
 ```text
-┌──────────────────────────┐
-│       CURRENT ROLE       │
-├──────────────────────────┤
-│ Software Engineering     │
-│ Student                  │
-│                          │
-│ Focus                    │
-│ ├─ Backend               │
-│ ├─ Web                   │
-│ ├─ Databases             │
-│ └─ Architecture          │
-│                          │
-│ Location                 │
-│ └─ Cameroon              │
-└──────────────────────────┘
+┌────────────────────────────┐
+│                            │
+│ ROLE                       │
+│ Software Engineering       │
+│ Student                    │
+│                            │
+│ PRIMARY FOCUS              │
+│ Backend Engineering        │
+│                            │
+│ STACK                      │
+│ Django / Symfony           │
+│                            │
+│ DATA                       │
+│ PostgreSQL / MySQL         │
+│                            │
+│ ENVIRONMENT                │
+│ Linux / Git / GitHub       │
+│                            │
+│ STATUS                     │
+│ ● BUILDING                 │
+│                            │
+└────────────────────────────┘
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# `02` — TECHNOLOGY STACK
+# `02` — TECHNOLOGY MATRIX
 
-## Core Technologies
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## CORE
+
+<img src="https://skillicons.dev/icons?i=python,django,php,symfony&perline=2" />
+
+<br><br>
+
+`Python`
+
+`Django`
+
+`PHP`
+
+`Symfony`
+
+</td>
+
+<td width="33%" align="center">
+
+## DATA
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=3" />
+
+<br><br>
+
+`PostgreSQL`
+
+`MySQL`
+
+`MariaDB`
+
+`SQLite`
+
+</td>
+
+<td width="33%" align="center">
+
+## WEB
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&perline=3" />
+
+<br><br>
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`Tailwind`
+
+`Bootstrap`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### Development Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,symfony,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 </p>
+
+### Currently Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Core-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Core-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Core-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-Core-000000?style=flat-square&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Core-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,redis,githubactions" />
 </p>
-
-### Working With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,sqlite,java,nodejs" />
-</p>
-
-### Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,docker,redis,githubactions,cloudflare" />
-</p>
-
-> The distinction between **Core**, **Working With** and **Exploring** reflects my current learning stage rather than a claim of equal mastery across every technology.
 
 ---
 
@@ -138,13 +213,15 @@ My current direction is toward **backend engineering and software architecture**
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### Backend
+### BACKEND
 
 REST APIs
 
 Authentication
+
+Authorization
 
 Business Logic
 
@@ -152,43 +229,59 @@ ORM
 
 Query Optimization
 
-Server-side Architecture
-
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### Data
+### DATABASE
 
 Relational Modeling
 
+SQL
+
 PostgreSQL
 
-MySQL / MariaDB
+MySQL
+
+MariaDB
 
 SQLite
 
-SQL
-
-Database Optimization
-
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### Engineering
+### SOFTWARE
 
 UML
 
-System Modeling
+Architecture
 
-Software Architecture
+Design Patterns
 
-Git
+Clean Code
 
 Testing
 
-Problem Solving
+Git
+
+</td>
+
+<td width="25%" align="center">
+
+### SYSTEMS
+
+Linux
+
+Networking
+
+Security
+
+Deployment
+
+Docker
+
+CI/CD
 
 </td>
 
@@ -197,57 +290,60 @@ Problem Solving
 
 ---
 
-# `04` — FEATURED PROJECTS
+# `04` — FEATURED WORK
 
-## `01` — Auction Bids Platform
+## Auction Bids Platform
 
 <table>
 <tr>
-<td width="65%" valign="top">
 
-### Online Auction Platform
+<td width="60%" valign="top">
 
-A web application designed to manage auctions, users and bidding operations.
+### `auction_bids_platform`
 
-**Technology**
+A web platform for managing online auctions and bidding operations.
 
-`Symfony` `PHP` `REST API` `JWT` `Twig`
+**Core stack**
 
-**Engineering focus**
+`Symfony` `PHP` `JWT` `REST API` `Twig`
 
-* Authentication & authorization
-* Auction business logic
-* REST API
+**Engineering demonstrated**
+
+* Authentication and authorization
+* Auction business rules
+* REST API design
 * Database modeling
 * Backend architecture
-* Web application design
+* Web application development
 
 </td>
 
-<td width="35%" valign="middle" align="center">
+<td width="40%" align="center">
 
 <img
 src="https://skillicons.dev/icons?i=symfony,php"
-width="120"
+width="130"
 />
 
 <br><br>
 
 <a href="https://github.com/ProgErnest/auction_bids_platform">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2ea043?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE%20CODE-00A884?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `02` — Library Management System
+## Library Management System
 
 <table>
 <tr>
-<td width="35%" valign="middle" align="center">
+
+<td width="40%" align="center">
 
 <img
 src="https://skillicons.dev/icons?i=python,django,postgres"
@@ -257,50 +353,58 @@ width="150"
 <br><br>
 
 <a href="https://github.com/ProgErnest/library-project-django">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2ea043?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOURCE%20CODE-00A884?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-### Library Management Platform
+### `library-project-django`
 
-A Django application for managing books, authors, genres, borrowers and loans.
+Django application for managing books, authors, genres, borrowers and loans.
 
-**Engineering focus**
+**Engineering demonstrated**
 
 * Django ORM
 * Relational modeling
+* Foreign-key relationships
 * Query optimization
-* Entity relationships
 * CRUD operations
-* Backend architecture
+* Class-based views
 * Database management
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `03` — Hospital Management Platform
+## Hospital Management Platform
 
 <table>
 <tr>
-<td width="65%" valign="top">
 
-### Digital Hospital Management
+<td width="62%" valign="top">
 
-A larger software engineering project focused on the digitalization of hospital management workflows.
+### `hospital-management-platform`
 
-**Planned modules**
+A software engineering project focused on the digitalization of hospital workflows.
 
-`Patient Records` · `Admissions` · `Appointments` · `Users & Roles`
+**Target modules**
 
-**Architecture direction**
+`Patient Records`
 
-`Requirements → UML → Architecture → Database → Backend → Testing → Deployment`
+`Admissions`
+
+`Appointments`
+
+`Users & Roles`
+
+**Architecture**
+
+Requirements → Analysis → UML → Database → Backend → Testing → Deployment
 
 **Planned stack**
 
@@ -308,27 +412,34 @@ A larger software engineering project focused on the digitalization of hospital 
 
 </td>
 
-<td width="35%" align="center">
+<td width="38%" align="center">
+
+### PROJECT STATUS
 
 ```text
-STATUS
+ANALYSIS
+██████████ 100%
 
-████████░░  PLANNING
+MODELING
+████████░░ 80%
 
-Architecture
-██████░░░░
+ARCHITECTURE
+██████░░░░ 60%
 
-Database
-████░░░░░░
+DEVELOPMENT
+███░░░░░░░ 30%
 
-Development
-██░░░░░░░░
+TESTING
+░░░░░░░░░░  0%
 
-Testing
-░░░░░░░░░░
+DEPLOYMENT
+░░░░░░░░░░  0%
 ```
 
+`IN DEVELOPMENT`
+
 </td>
+
 </tr>
 </table>
 
@@ -336,18 +447,21 @@ Testing
 
 # `05` — ENGINEERING MINDSET
 
-## I don't just want to make software work.
-
-I want to understand **why the system works, how it should be designed and how it can evolve**.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00A884&center=true&vCenter=true&width=700&lines=I+don't+just+write+code.;I+design+solutions.;I+optimize+systems.;I+learn+from+real+problems."
+    alt="Engineering mindset"
+  />
+</p>
 
 ```text
        PROBLEM
           │
           ▼
-   REQUIREMENTS
+    REQUIREMENTS
           │
           ▼
-      ANALYSIS
+       ANALYSIS
           │
           ▼
        MODELING
@@ -368,245 +482,272 @@ I want to understand **why the system works, how it should be designed and how i
      DEPLOYMENT
           │
           ▼
-      MONITORING
-          │
-          ▼
-      IMPROVEMENT
+     IMPROVEMENT
 ```
 
-### Principles I'm developing
+### What I value
 
-<table>
-<tr>
-<td width="50%">
-
-**01 — Understand first**
-
-A feature should solve a clearly understood problem.
-
-**02 — Design before complexity**
-
-Good modeling reduces unnecessary complexity.
-
-**03 — Data matters**
-
-A strong application starts with a strong data model.
-
-</td>
-
-<td width="50%">
-
-**04 — Code should evolve**
-
-Refactoring is part of development.
-
-**05 — Security matters**
-
-Authentication, authorization and data protection are not optional.
-
-**06 — Learn by building**
-
-Projects are where theory becomes engineering practice.
-
-</td>
-</tr>
-</table>
+| Principle      | Meaning                                                           |
+| -------------- | ----------------------------------------------------------------- |
+| **Understand** | Know the problem before implementing the solution                 |
+| **Model**      | Reduce complexity before writing complex code                     |
+| **Optimize**   | Measure before optimizing                                         |
+| **Secure**     | Treat authentication, authorization and data protection seriously |
+| **Test**       | Verify behavior rather than relying on assumptions                |
+| **Improve**    | Refactor and evolve the system continuously                       |
 
 ---
 
-# `06` — CURRENT FOCUS
+# `06` — GITHUB ANALYTICS
 
-```text
-                 SOFTWARE ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-       BACKEND        DATABASES      ARCHITECTURE
-          │              │              │
-          ▼              ▼              ▼
-       Django        PostgreSQL       UML
-       REST API      SQL              Design
-       Security      Optimization     Patterns
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                    DEVOPS / CLOUD
-                         │
-                         ▼
-                     AI + DEV
-```
+## Repository & Language Overview
 
-### Currently strengthening
-
-* Advanced Django
-* REST API architecture
-* PostgreSQL
-* Database optimization
-* Software architecture
-* Docker
-* CI/CD
-* React
-* Cloud fundamentals
-* AI-assisted development
-* Open-source AI models
-
----
-
-# `07` — GITHUB ACTIVITY
-
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=ProgErnest&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=ProgErnest&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=00A884&text_color=C9D1D9"
+width="48%"
 alt="GitHub statistics"
 />
 
-</td>
-
-<td width="50%" align="center">
-
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgErnest&layout=compact&hide_border=true&theme=transparent"
-alt="Most used languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgErnest&layout=donut&langs_count=8&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
+width="48%"
+alt="Top programming languages"
 />
 
+</p>
+
+---
+
+## Contribution Momentum
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=ProgErnest&hide_border=true&background=00000000&ring=00A884&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+width="75%"
+alt="GitHub contribution streak"
+/>
+
+</p>
+
+---
+
+## Development Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ProgErnest&bg_color=07111f&color=C9D1D9&line=00A884&point=58A6FF&area=true&area_color=063b35&hide_border=true&custom_title=Ernest's%20Development%20Activity"
+width="100%"
+alt="GitHub activity graph"
+/>
+
+</p>
+
+---
+
+# `07` — ACHIEVEMENTS
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=ProgErnest&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12"
+width="100%"
+alt="GitHub trophies"
+/>
+
+</p>
+
+> Achievements and contribution data are generated dynamically from GitHub activity.
+
+---
+
+# `08` — CONTRIBUTION MAP
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/ProgErnest/ProgErnest/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="GitHub contribution snake"
+/>
+
+</p>
+
+---
+
+# `09` — DEVELOPMENT SNAPSHOT
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### REPOSITORIES
+
+```text
+22+
+```
+
+Public projects and experiments documenting my learning journey.
+
 </td>
+
+<td width="33%" align="center">
+
+### CURRENT DIRECTION
+
+```text
+BACKEND
+```
+
+Django · Symfony · APIs · Databases
+
+</td>
+
+<td width="33%" align="center">
+
+### NEXT LEVEL
+
+```text
+ARCHITECTURE
+```
+
+System Design · DevOps · Cloud · AI
+
+</td>
+
 </tr>
 </table>
 
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=ProgErnest&theme=transparent&hide_border=true"
-alt="GitHub streak"
-/>
-
-</p>
-
 ---
 
-## Contribution Graph
+# `10` — CURRENT LEARNING
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ProgErnest&bg_color=07111f&color=58a6ff&line=2ea043&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution graph"
-  />
+
+<img src="https://img.shields.io/badge/Django-Advanced%20Backend-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-API-00A884?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/AI-Development-58A6FF?style=for-the-badge" />
+
 </p>
-
----
-
-# `08` — LEARNING ROADMAP
 
 ```text
-2026
- │
- ├── Backend Engineering
- │      └── Django / REST / PostgreSQL
- │
- ├── Modern Frontend
- │      └── JavaScript / React
- │
- ├── DevOps
- │      └── Docker / CI-CD / Linux
- │
- ├── Cloud
- │      └── Deployment / Infrastructure
- │
- └── AI Engineering
-        └── Open-source models / Local AI
-                 │
-                 ▼
-              FUTURE
-                 │
-                 ▼
-        SOFTWARE ARCHITECTURE
-                 │
-                 ▼
-          SYSTEM DESIGN
-                 │
-                 ▼
-       DISTRIBUTED SYSTEMS
+BACKEND
+████████████████████░░░░
+
+DATABASE ENGINEERING
+██████████████████░░░░░
+
+SOFTWARE ARCHITECTURE
+██████████████░░░░░░░░
+
+DEVOPS
+██████████░░░░░░░░░░░░
+
+CLOUD
+███████░░░░░░░░░░░░░░░
+
+AI ENGINEERING
+██████░░░░░░░░░░░░░░░░
+```
+
+*Progress indicators represent current learning priorities, not formal proficiency scores.*
+
+---
+
+# `11` — ROADMAP
+
+```text
+                         SOFTWARE ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+          BACKEND             DATABASES           FRONTEND
+             │                    │                    │
+             ▼                    ▼                    ▼
+          Django              PostgreSQL             React
+          REST API            SQL                    JavaScript
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                                  ▼
+                              DEVOPS
+                                  │
+                                  ▼
+                           DOCKER / CI-CD
+                                  │
+                                  ▼
+                              CLOUD
+                                  │
+                                  ▼
+                          SYSTEM DESIGN
+                                  │
+                                  ▼
+                       SOFTWARE ARCHITECTURE
+                                  │
+                                  ▼
+                           AI ENGINEERING
 ```
 
 ---
 
-# `09` — BUILDING NEXT
+# `12` — WHAT I'M BUILDING
 
-### Hospital Management Platform
+## From CRUD applications to complete systems
 
-**Goal:** design and develop a complete web platform for managing core hospital workflows.
+My current projects are increasingly focused on understanding the complete lifecycle of software:
 
 ```text
-PATIENT
-   │
-   ├───────────────► MEDICAL RECORD
-   │
-   ├───────────────► APPOINTMENT
-   │
-   └───────────────► ADMISSION
-                         │
-                         ▼
-                    HOSPITAL STAFF
-                         │
-                         ▼
-                   MANAGEMENT
+Idea
+ ↓
+Problem Definition
+ ↓
+Requirements
+ ↓
+UML / Modeling
+ ↓
+Architecture
+ ↓
+Database
+ ↓
+Backend
+ ↓
+Frontend
+ ↓
+Testing
+ ↓
+Deployment
+ ↓
+Monitoring
 ```
 
-**Objective:** turn a real-world operational problem into a structured software solution.
+The objective is not simply to learn another framework.
 
-`Analysis` → `Modeling` → `Architecture` → `Development` → `Testing` → `Deployment`
+The objective is to become capable of **designing complete software systems**.
 
 ---
 
-# `10` — LONG-TERM DIRECTION
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=2EA043&center=true&vCenter=true&width=750&lines=Backend+Engineer;Software+Architecture;System+Design;Cloud+%26+DevOps;AI-Enhanced+Engineering"
-alt="Career direction"
-/>
-
-</p>
-
-My long-term objective is to become a **software engineer capable of designing complete, maintainable and scalable systems**.
-
-```text
-Developer
-    │
-    ▼
-Backend Engineer
-    │
-    ▼
-Software Engineer
-    │
-    ▼
-System Designer
-    │
-    ▼
-Software Architect
-```
-
----
-
-# `11` — CONNECT
+# `13` — CONNECT
 
 <p align="center">
 
 <a href="mailto:cuba7843@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-cuba7843%40gmail.com-2EA043?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/COLLABORATE-EMAIL-00A884?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/Ernest-Dev-9b8938427">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/your-linkedin-here">
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/ProgErnest">
-<img src="https://img.shields.io/badge/GITHUB-PROGERNEST-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FOLLOW-GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -616,7 +757,7 @@ Software Architect
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00a884,50:087f5b,100:07111f&height=130&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00A884,45:087F5B,75:071B2E,100:050B14&height=150&section=footer&animation=fadeIn"
 width="100%"
 alt="Footer"
 />
@@ -624,7 +765,7 @@ alt="Footer"
 </p>
 
 <p align="center">
-  <strong>BUILD • LEARN • ENGINEER • IMPROVE</strong>
+  <strong>BUILD · LEARN · ENGINEER · IMPROVE</strong>
 </p>
 
 <p align="center">
