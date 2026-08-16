@@ -6,9 +6,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b3d35,75:087f5b,100:00a884&height=210&section=header&text=Jores%20WABO&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b3d35,75:087f5b,100:00a884&height=210&section=header&text=Ernest%20Dev&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn"
     width="100%"
-    alt="Jores WABO"
+    alt="Ernest Dev"
   />
 </p>
 
@@ -23,7 +23,7 @@
   <a href="https://github.com/ProgErnest">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jores-wabo-9b8938427">
+  <a href="https://www.linkedin.com/in/Ernest-Dev-9b8938427">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:cuba7843@gmail.com">
@@ -67,7 +67,7 @@
 
 ## Building software with an engineering mindset
 
-I'm **Jores WABO**, a Software Engineering student focused on **backend and web development**.
+I'm **Ernest Dev**, a Software Engineering student focused on **backend and web development**.
 
 I enjoy turning real-world problems into structured software solutions — starting from requirements and modeling, then moving through architecture, implementation, testing and deployment.
 
@@ -601,7 +601,7 @@ Software Architect
 <img src="https://img.shields.io/badge/EMAIL-cuba7843%40gmail.com-2EA043?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/jores-wabo-9b8938427">
+<a href="https://www.linkedin.com/in/Ernest-Dev-9b8938427">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
