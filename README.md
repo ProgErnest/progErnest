@@ -1,75 +1,98 @@
-<h1 align="center">Ernest — Software Engineering Student</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+in+the+making;Django+%7C+Symfony+%7C+PostgreSQL;Building+full+systems%2C+not+just+CRUD;Open+to+internships+%2F+alternance" alt="Typing animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:cuba7843@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ProgErnest"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+# Ernest — Développeur Backend
+### PHP (Symfony · CodeIgniter 4) · Python (Django) · Architecture logicielle
 
-<p align="center">
-🎓 Étudiant en Génie Logiciel · 🇨🇲 Cameroun · 🟢 Ouvert à un stage / une alternance backend
-</p>
+<img src="https://img.shields.io/badge/Statut-En%20soutenance%20finale-00A884?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Bafoussam%2C%20Cameroun-0D1117?style=for-the-badge" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-ProgErnest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ProgErnest)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20suivre-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VOTRE-PROFIL) <!-- ⚠️ remplace par ton vrai lien LinkedIn -->
+[![Email](https://img.shields.io/badge/Email-Me%20contacter-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cuba7843@gmail.com)
+
+</div>
 
 ---
 
-## Qui je suis
+## 👋 Qui je suis
 
-Étudiant en génie logiciel, je me spécialise en **développement backend et web**. Ce qui m'intéresse n'est pas d'empiler les frameworks, mais de comprendre **comment un système complet fonctionne** — de l'analyse du besoin jusqu'au déploiement.
+Étudiant en génie logiciel à l'**IAI-Cameroun**, actuellement en stage dans une startup de développement logiciel à Bafoussam, je construis des applications backend pensées pour des problèmes concrets — en particulier ceux du secteur informel camerounais (tontines, petit commerce, agriculture).
 
-Concrètement, je conçois des applications qui modélisent un vrai problème métier (enchères, gestion hospitalière, bibliothèques), avec authentification, base de données relationnelle et API REST — pas des tutoriels recopiés.
+Je ne me contente pas de suivre des tutoriels : chaque projet que je publie ici est modélisé (MERISE / UML), sécurisé, testé, et pensé pour tenir la route en production — pas juste pour "marcher en local".
 
-## Stack
+**Ce qui m'anime aujourd'hui :**
+- Faire monter en compétence mon stack Django (Celery, DRF, cache Redis, CI/CD) au niveau production
+- Construire un projet de soutenance qui a une vraie valeur différenciante, pas un CRUD de plus
+- Commencer à contribuer à l'open source et viser une visibilité internationale (Outreachy, GitHub, LinkedIn)
 
-| Domaine | Techs |
+---
+
+## 🛠️ Stack technique
+
+| Domaine | Technologies |
 |---|---|
-| **Backend** | Python · Django · PHP · Symfony |
-| **Bases de données** | PostgreSQL · MySQL · SQLite |
-| **Web** | HTML · CSS · JavaScript · Tailwind |
-| **Outils** | Git · GitHub · Linux · Docker *(en cours)* |
-| **En apprentissage** | React · CI/CD · Architecture système |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Async / Infra** | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Frontend (consommateur d'API)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Méthode & conception** | MERISE (MCD/MLD/MPD) · UML · REST · TDD (pytest-django) |
 
-## Projets phares
+---
 
-### ��️ Auction Bids Platform
-Plateforme de gestion d'enchères en ligne, avec règles métier réelles (mise minimale, clôture d'enchère, historique des offres).
-- **Stack** : Symfony · PHP · JWT · API REST · Twig
-- **Ce que ça démontre** : authentification/autorisation, modélisation de règles métier complexes, conception d'API REST
-- �� [Voir le repo](https://github.com/ProgErnest/auction_bids_platform)
+## 🚀 Projet phare — Plateforme de gestion de tontine *(soutenance)*
 
-### �� Library Management System
-Application Django pour gérer livres, auteurs, genres, emprunteurs et prêts, avec relations entre entités.
-- **Stack** : Django · PostgreSQL
-- **Ce que ça démontre** : ORM Django, modélisation relationnelle (clés étrangères), optimisation de requêtes, vues basées sur les classes
-- �� [Voir le repo](https://github.com/ProgErnest/library-project-django)
+Application de gestion de tontine pour les vendeuses du **Marché A de Bafoussam**, conçue pour digitaliser un système financier informel sans le dénaturer.
 
-### �� Hospital Management Platform *(en cours)*
-Projet de digitalisation des workflows hospitaliers (dossiers patients, admissions, rendez-vous, rôles utilisateurs), conduit avec une vraie démarche d'ingénierie : besoin → UML → base de données → backend → tests → déploiement.
-- **Stack prévue** : Django · PostgreSQL · Tailwind
-- **Ce que ça démontre** : capacité à structurer un projet complexe avant de coder, modélisation UML
+**Ce qui la différencie d'un simple CRUD :**
+- 🔒 **Registre de cotisations infalsifiable** — chaînage par hash SHA-256, inspiré des principes des registres à preuve d'intégrité
+- 🧠 **Moteur de conseil à base de règles** — recommandations financières adaptées au profil de chaque tontine
+- 📱 Pensée pour un usage réel en contexte de commerce informel (connectivité limitée, faible littératie numérique)
 
-> �� Tous mes projets sont documentés avec un README expliquant le contexte, les choix techniques et les difficultés rencontrées.
+*Stack : Django · PostgreSQL · Celery/Redis · Tailwind CSS*
 
-## Comment je travaille
+---
 
-```
-Comprendre le problème → Modéliser → Concevoir l'architecture
-        → Implémenter → Tester → Déployer → Améliorer
-```
+## 📂 Projets réalisés
 
-Je préfère prendre le temps de modéliser avant d'écrire du code, mesurer avant d'optimiser, et traiter la sécurité (auth, permissions, protection des données) comme une priorité dès le départ plutôt qu'un correctif après coup.
+| Projet | Description | Stack |
+|---|---|---|
+| [`auction_bids_platform`](https://github.com/ProgErnest/auction_bids_platform) | Plateforme de gestion d'enchères en ligne — auth JWT, règles métier, API REST | Symfony · PHP · JWT |
+| [`library-project-django`](https://github.com/ProgErnest/library-project-django) | Système de gestion de bibliothèque multi-app (livres, auteurs, emprunts) — ORM avancé, CBV, requêtes optimisées | Django · PostgreSQL |
+| [`blog-articles-django-app`](https://github.com/ProgErnest/blog-articles-django-app) | Mini-blog d'articles avec gestion de contenu | Django · Python |
+| [`nextech-electronic-shop`](https://github.com/ProgErnest/nextech-electronic-shop) / [`electronic-shop-landing-page`](https://github.com/ProgErnest/electronic-shop-landing-page) | Landing pages e-commerce — système de design, Tailwind v4 | HTML · CSS · Tailwind |
+| [`MyContacts`](https://github.com/ProgErnest/MyContacts) | Application de gestion de contacts | — |
 
-## GitHub en un coup d'œil
+---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ProgErnest&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=00A884&text_color=C9D1D9" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgErnest&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-</p>
+## 📊 Activité GitHub
 
-## Me contacter
+<div align="center">
 
-Je suis actuellement à la recherche d'un **stage ou d'une alternance en développement backend**. N'hésite pas à me contacter si un profil comme le mien t'intéresse.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ProgErnest&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00A884&icon_color=00A884&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgErnest&layout=compact&hide_border=true&bg_color=0D1117&title_color=00A884&text_color=C9D1D9" />
 
-📧 [cuba7843@gmail.com](mailto:cuba7843@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/VOTRE-LIEN-LINKEDIN) · 🐙 [GitHub](https://github.com/ProgErnest)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgErnest&hide_border=true&background=0D1117&ring=00A884&fire=00A884&currStreakLabel=00A884" />
+
+</div>
+
+🏆 **Achievements GitHub** : Pull Shark · Quickdraw
+
+---
+
+## 🎯 Prochaines étapes
+
+- [ ] Finaliser et soutenir le projet tontine (soutenance académique)
+- [ ] Premières contributions open source (*good first issues*)
+- [ ] Candidature **Outreachy** — session de décembre 2026
+- [ ] Maîtrise production de Celery / DRF / sécurité applicative
+- [ ] Construire une présence technique visible (LinkedIn, contributions publiques)
+
+---
+
+<div align="center">
+
+**Ouvert aux opportunités de stage / collaboration open source**
+
+📧 [cuba7843@gmail.com](mailto:cuba7843@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/VOTRE-PROFIL)
+
+</div>
