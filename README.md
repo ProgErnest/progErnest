@@ -2,7 +2,7 @@
 
 <!-- ERNEST PROGRAMMER — GITHUB PROFILE README V4             -->
 
-<!-- Developer / Cyber / Software Engineering                  -->
+<!-- Developer / Cyber / Software Engineering              -->
 
 <!-- ========================================================= -->
 
