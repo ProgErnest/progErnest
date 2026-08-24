@@ -1,5 +1,4 @@
 <!-- ========================================================= -->
-
 <!-- ERNEST PROGRAMMER — GITHUB PROFILE README V4             -->
 
 <!-- Developer / Cyber / Software Engineering              -->
@@ -10,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,35:071b2e,70:063b35,100:00a884&height=230&section=header&text=ERNEST%20PROGRAMMER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,35:071b2e,70:063b35,100:00a884&height=230&section=header&text=ERNESTO%20PROGRAMMER&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
     alt="Ernest Programmer"
   />
