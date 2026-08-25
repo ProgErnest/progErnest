@@ -768,5 +768,5 @@ alt="Footer"
 </p>
 
 <p align="center">
-  <sub>Software Engineering Student · Backend & Web Development · Cameroon</sub>
+  <sub>Software Engineering Student · Backend & Web Development</sub>
 </p>
