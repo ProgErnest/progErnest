@@ -81,6 +81,7 @@ I enjoy designing and building applications that solve concrete problems, with p
 * REST API development
 * Relational databases
 * Software architecture
+* Cybersercurity
 * System modeling
 * Query optimization
 * Application security
