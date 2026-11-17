@@ -607,17 +607,6 @@ Django · Symfony · APIs · Databases
 
 </td>
 
-<td width="33%" align="center">
-
-### NEXT LEVEL
-
-```text
-ARCHITECTURE
-```
-
-System Design · DevOps · Cloud · AI
-
-</td>
 
 </tr>
 </table>
