@@ -148,6 +148,7 @@ My goal is to progressively move from **building applications** to understanding
 `PHP`
 
 `Symfony`
+`Codeigniter`
 
 </td>
 
